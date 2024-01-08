@@ -1,5 +1,3 @@
-# Deleted everything in this file.
-
 # Added the add function:
 
 def addition(num1, num2):
